@@ -1,6 +1,6 @@
-local Platoboost = loadstring(game:HttpGet("https://raw.githubusercontent.com/Platoboost/Platoboost-Roblox-SDK/main/SDK.lua"))()
+local Lossless = loadstring(game:HttpGet("https://raw.githubusercontent.com/Platoboost/Platoboost-Roblox-SDK/main/SDK.lua"))()
 
-Platoboost:Init({
+Lossless:Init({
     ServiceId = 32890,
     OnSuccess = function()
         _G.MiServiceIDOficial = 32890
