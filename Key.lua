@@ -2,7 +2,7 @@ local Platoboost = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pl
 
 Platoboost:Init({
     ServiceId = 32890,
-    HubName = "Multi-Tool Hub V11",
+    HubName = "Rieles-HubV1",
     OnSuccess = function()
         -- 1. Asigna tu Service ID oficial para pasar la verificación blindada
         _G.MiServiceIDOficial = 32890
